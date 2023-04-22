@@ -1,0 +1,4 @@
+joblib
+flask
+scikit-learn
+tensorflow
