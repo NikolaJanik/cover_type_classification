@@ -1,4 +1,4 @@
-# Cover type classification
+# Forest cover type classification
 
 
 The project concerns classification of forest cover type from cartographic variables using classical machine learning methods and neural networks.
