@@ -1,7 +1,7 @@
 # Cover type classification
 
 
-The project concerns classification of forest cover type from cartographic variables only using classical machine learning methods and neural networks.
+The project concerns classification of forest cover type from cartographic variables using classical machine learning methods and neural networks.
 
 The repository contains:
 1. code written in python in which models are trained: cover_type.ipynb
